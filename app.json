@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/search/search"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FAF0E6",
+    "navigationBarTitleText": "抓书一号",
+    "navigationBarTextStyle":"black"
+  }
+}

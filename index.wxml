@@ -1,0 +1,9 @@
+<image src="/pages/image/background.jpg"></image>
+
+  <view class="usermotto" class="container">
+    <text class="hh" bindtap="bindViewTap">{{motto}}</text>
+    <text class="hh" bindtap="bindViewTap">{{motto1}}</text>
+  </view>
+  <view class="hhh">
+   <text>制作人：欧阳天昊 甄宸 吴治浩</text>
+   </view>

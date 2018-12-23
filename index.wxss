@@ -1,0 +1,16 @@
+.usermotto {
+  margin-top: 100px;
+  flex-direction: column;
+}
+.hhh{
+  margin-bottom: 10rpx;
+  text-align: center;
+  font-size:25rpx;
+}
+.hh{
+  color:cornflowerblue;
+  font-size: 50rpx
+}
+page{
+ background: #F2F1EE;
+}

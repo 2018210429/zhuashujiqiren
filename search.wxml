@@ -1,0 +1,8 @@
+<view class="search-cell" class="search-container">
+      <view class="weui-cell__bd">
+        <input class="input-search" placeholder="输入书名搜索" bindinput="searchInputEvent"/>
+      </view>
+      <view class="weui-cell__ft">
+        <button class="btn-search" type="primary" bindtap="searchClickEvent" >搜索</button>
+      </view>
+</view>
